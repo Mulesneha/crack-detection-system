@@ -1,4 +1,4 @@
-Crack Detection System
+**Crack Detection System**
 📌 Overview
 
 The Crack Detection System is a machine learning / computer vision-based project designed to automatically detect cracks in surfaces such as walls, roads, bridges, and structures. The system helps in early damage identification, reducing manual inspection efforts and improving safety and maintenance efficiency.
